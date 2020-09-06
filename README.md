@@ -2,11 +2,12 @@
 
 ### I'm an architect turned developer. I started this journey around a year ago and have been enjoying it ever since!
 
-- 🔭    I’m currently working on building a Video Game Aggregator (Laravel) but will be planning to make my own blog website soon!
-- 🌱    I’m currently learning everything! 🤣 But more around PHP Laravel, Vue and React
-- 👯    I’m looking to improve my knowledge on the field and to collaborate more on github
-- 🥅    2020 Goals: To learn how to create a mobile app and for it to be in the Playstore
-- ⚡     Hobbies: 🏃🏻‍♂️ 🧗🏻 ⛹🏻‍♂️ 🏸 🏀 🥋 🥊 📷  I usually try something new every month but currently I am learning how to juggle!
+- 🔭    &nbsp; I’m currently working on building a Video Game Aggregator (Laravel) but will be planning to make my own blog website soon!
+- 🌱    &nbsp; I’m currently learning everything! 🤣 But more around PHP Laravel, Vue and React
+- 👯    &nbsp; I’m looking to improve my knowledge on the field and to collaborate more on github
+- 🥅    &nbsp; 2020 Goals: To learn how to create a mobile app and for it to be in the Playstore
+- ⚡     &nbsp; Hobbies: 🏃🏻‍♂️&nbsp;🧗🏻&nbsp;⛹🏻‍♂️&nbsp;🏸&nbsp;🏀&nbsp;🥋&nbsp;🥊&nbsp;📷&nbsp;🎋
+- 💡    &nbsp; Fun fact: I usually try to learn something new every month, I am currently learning how to juggle!
 
 ### Connect with me:
 

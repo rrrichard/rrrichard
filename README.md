@@ -2,11 +2,11 @@
 
 ### I'm an architect turned developer. I started this journey around a year ago and have been enjoying it ever since!
 
-- 🔭 I’m currently working on building a Video Game Aggregator (Laravel) but will be planning to make my own blog website soon!
-- 🌱 I’m currently learning everything! 🤣 But more around PHP Laravel, Vue and React
-- 👯 I’m looking to improve my knowledge on the field and to collaborate more on github
-- 🥅 2020 Goals: To learn how to create a mobile app and for it to be in the Playstore
-- ⚡  Hobbies: 🏃🏻‍♂️🧗🏻⛹🏻‍♂️🏸🏀🥋🥊📷  I usually try something new every month but currently I am learning how to juggle!
+- 🔭    I’m currently working on building a Video Game Aggregator (Laravel) but will be planning to make my own blog website soon!
+- 🌱    I’m currently learning everything! 🤣 But more around PHP Laravel, Vue and React
+- 👯    I’m looking to improve my knowledge on the field and to collaborate more on github
+- 🥅    2020 Goals: To learn how to create a mobile app and for it to be in the Playstore
+- ⚡     Hobbies: 🏃🏻‍♂️ 🧗🏻 ⛹🏻‍♂️ 🏸 🏀 🥋 🥊 📷  I usually try something new every month but currently I am learning how to juggle!
 
 ### Connect with me:
 
@@ -22,7 +22,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="Laravel" width="26px" src="dhttps://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
+<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
